@@ -10,7 +10,7 @@ public class Calculator {
 	}
 	public static void main(String[] args) {
 		Calculator cal= new Calculator();
-		System.out.println(cal.multiply(3, 10));
+		System.out.println(cal.multiply(5, 10));
 	}
 
 }
